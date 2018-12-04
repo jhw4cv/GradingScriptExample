@@ -1,5 +1,14 @@
 public class NumberCruncherTest {
 
+    /**
+        This is the Java file that will run the tests.
+        Each test is surrounded by try-catch to prevent program from crashing
+        if there are things like null-pointer exceptions.  That way I can
+        continue to test the rest of the methods and easily see that a method
+        failed because of an exception.  
+    */
+     
+    
 	public static void main(String [] args) {
 		NumberCruncher num = new NumberCruncher();
 
