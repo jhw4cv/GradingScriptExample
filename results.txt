@@ -1,0 +1,87 @@
++ ---------------------------------------------------------------------- +
+Student name:	jack_workman	Assignment Name: NumberCruncher.java
+
+All Tests Passed
++ ---------------------------------------------------------------------- +
+ 
+ 
++ ---------------------------------------------------------------------- +
+Student name:	xxxxxxxx	Assignment Name: NumberCruncher.java
+
+All Tests Passed
++ ---------------------------------------------------------------------- +
+ 
+ 
++ ---------------------------------------------------------------------- +
+Student name:	xxxxxxxx	Assignment Name: NumberCruncher.java
+
+Passed 90.9090909090909% of tests.  The following tests failed:
+
+Failed isPerfSquare(4)
+
++ ---------------------------------------------------------------------- +
+ 
+ 
++ ---------------------------------------------------------------------- +
+Student name:	xxxxxxxx	Assignment Name: NumberCruncher.java
+
+Passed 27.27272727272727% of tests.  The following tests failed:
+
+Failed raiseToPower(2, 2) == 4
+Failed raiseToPower(2, 3) == 8
+Failed sumSquares(3) == 14
+Failed sumSquares(2) == 5
+Failed sumSquares(3) == 14
+Failed num.sumRecips(3): java.lang.ArithmeticException: / by zero
+Failed sumRecips(5): java.lang.ArithmeticException: / by zero
+Failed isPerfSquare(4)
+
++ ---------------------------------------------------------------------- +
+
+
++ ---------------------------------------------------------------------- +
+Student name:	xxxxxxxx	Assignment Name: NumberCruncher.java
+
+All Tests Passed
++ ---------------------------------------------------------------------- +
+
+
++ ---------------------------------------------------------------------- +
+Student name:	xxxxxxxx	Assignment Name: NumberCruncher.java
+
+All Tests Passed
++ ---------------------------------------------------------------------- +
+
+
++ ---------------------------------------------------------------------- +
+Student name:	xxxxxxxx	Assignment Name: NumberCruncher.java
+
+Passed 90.9090909090909% of tests.  The following tests failed:
+
+Failed sumRecips(5)
+
++ ---------------------------------------------------------------------- +
+
+
++ ---------------------------------------------------------------------- +
+Student name:	xxxxxxxx	Assignment Name: NumberCruncher.java
+
+All Tests Passed
++ ---------------------------------------------------------------------- +
+
+
++ ---------------------------------------------------------------------- +
+Student name:	xxxxxxxx	Assignment Name: NumberCruncher.java
+
+All Tests Passed
++ ---------------------------------------------------------------------- +
+
+
++ ---------------------------------------------------------------------- +
+Student name:	xxxxxxxx	Assignment Name: NumberCruncher.java
+
+Passed 90.9090909090909% of tests.  The following tests failed:
+
+Failed raiseToPower(2, 3)
+
++ ---------------------------------------------------------------------- +
